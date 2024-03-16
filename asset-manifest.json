@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roulette-random/static/css/main.475386c4.css",
+    "main.js": "/roulette-random/static/js/main.f7720497.js",
+    "static/js/453.69646744.chunk.js": "/roulette-random/static/js/453.69646744.chunk.js",
+    "index.html": "/roulette-random/index.html",
+    "main.475386c4.css.map": "/roulette-random/static/css/main.475386c4.css.map",
+    "main.f7720497.js.map": "/roulette-random/static/js/main.f7720497.js.map",
+    "453.69646744.chunk.js.map": "/roulette-random/static/js/453.69646744.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.475386c4.css",
+    "static/js/main.f7720497.js"
+  ]
+}
